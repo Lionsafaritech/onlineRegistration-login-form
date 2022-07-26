@@ -1,0 +1,103 @@
+/* .row{
+    background-color: lightseagreen;
+} */
+header{
+    /* margin-top: 30px; */
+    margin-bottom: 15px;
+    /* background: url(download.jpeg) ; */
+    /* background: no-repeat; */
+    background-color: lightseagreen;
+}
+.register{
+    height: 80vh;
+    padding: 20px;
+    /* border-radius: 20%; */
+    /* min-height: fit-content; */
+    background-color: rgb(27, 73, 199);
+    
+}
+.register-right{
+    height: 80%;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    background-color: rgb(216, 228, 228) ;
+    padding: 5px;
+    
+    box-sizing: border-box;
+}
+.nav-tabs{
+    width: 50%;
+    float: right;
+    border-radius: 15px;
+    /* border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px; */
+    /* border: 1px solid blue; */
+    background-color: rgb(8, 6, 160);
+}
+.tab-content{
+    margin: 10%;
+   /* align-items: center; */
+}
+.register-heading{
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.btnRegister{
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+    float: right;
+}
+.radio{
+    margin: 5px;
+}
+#login{
+    color: white;
+    background-color: blue;
+    border-radius:15px ;
+    margin-top: 50%;
+    width: 50%;
+}
+
+
+
+/* home page */
+.first{
+    border: 2px solid black;
+    display: block;
+}
+.second{
+    border: 2px solid black;
+    justify-content: space-between;
+    display: block;
+}
+
+/* .container{
+    margin-top: 20px;
+} */
+
+/* login section */
+/* .row{
+    display: block;
+    margin: auto;
+} */
+.profile-img{
+    width: 50%;
+    margin-top: -47px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+.account-wall{
+    /* width: 150%; */
+    background-color: #dfdad2;
+    box-shadow: 15px ;
+}
+.btn-block{
+    width: 100%;
+    margin-top: 5px;
+}
+.form-signin{
+    margin: 5px;
+}
